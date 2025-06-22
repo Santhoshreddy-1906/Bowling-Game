@@ -1,11 +1,11 @@
 # Bowling-Game
-# 🎳 Bowling Game Score Calculator (C++ Console App)
+#  Bowling Game Score Calculator (C++ Console App)
 
 This project is a C++ console application that calculates the score of a single player in a standard bowling game. The implementation strictly follows official bowling rules, including strike and spare bonuses and correct handling of the 10th frame.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Calculates total score for a 10-frame bowling game
 - Handles strikes, spares, and open frames
@@ -25,7 +25,7 @@ This project is a C++ console application that calculates the score of a single 
 
 ---
 
-## 📈 Example Input
+##  Example Input
 
 Rolls used in this example (from a known test case):
 
